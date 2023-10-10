@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.wrap-text {
+  overflow-wrap: break-word;
+}
+.completed-task {
+  background-color: greenyellow;
+}
